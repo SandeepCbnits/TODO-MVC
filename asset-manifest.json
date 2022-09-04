@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TDOO-MVC/static/css/main.6d5edafa.css",
+    "main.js": "/TDOO-MVC/static/js/main.d70edd5f.js",
+    "index.html": "/TDOO-MVC/index.html",
+    "main.6d5edafa.css.map": "/TDOO-MVC/static/css/main.6d5edafa.css.map",
+    "main.d70edd5f.js.map": "/TDOO-MVC/static/js/main.d70edd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d5edafa.css",
+    "static/js/main.d70edd5f.js"
+  ]
+}
